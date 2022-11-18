@@ -1,0 +1,23 @@
+.post__container {
+  width: 820px;
+  border: 1px solid #dbdbdb;
+  background-color: #ffffff;
+  margin-top: 25px;
+}
+.post__header {
+  height: 60px;
+  border-bottom: 1px solid #dbdbdb;
+  display: flex;
+}
+.post__avtar {
+  min-width: 40px;
+  min-width: 40px;
+  margin: 10px;
+}
+.post__username {
+  font-weight: bold;
+  margin-top: 20px;
+}
+.post__img{
+    width: 820px;
+}
